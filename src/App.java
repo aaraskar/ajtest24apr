@@ -5,6 +5,11 @@ public class App {
 		System.out.println("Code from US Guy:Line1");
 		System.out.println("Code from US Guy:Line2");
 		System.out.println("Code from Us Guy:Line3");
+		
+		
+		System.out.println("Code from Ind Guy:Line1");
+		System.out.println("Code from Ind Guy:Line2");
+		System.out.println("Code from Ind Guy:Line3");
 
 	}
 
